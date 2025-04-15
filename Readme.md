@@ -2,6 +2,30 @@
 Hi, This is Snekha from CEDA!
 This repository contains creation, end-to-end deployment, automation, and integration workflows using Docker, Kubernetes, Terraform, and AWS native services. Each sample showcases a specific real-world use case.
 
+# 📘 Table of Contents
+
+1. [Creation of Java Microservices App](#creation-of-java-microservices-app)  
+    - [Service-1: Eureka Server]
+    - [Service-2: Intern Management] 
+    - [Service-3: Training Management] 
+
+2. [Sample App - 1: Docker & Kubernetes Deployment (In DevOps Folder)](#sample-app---1-docker--kubernetes-deployment-in-devops-folder)  
+    - [Dockerfiles Setup](#1️⃣-dockerfiles-setup)  
+    - [Docker Compose](#2️⃣-docker-compose)  
+    - [Kubernetes Deployment using Minikube](#3️⃣-kubernetes-deployment-using-minikube)  
+    - [Docker Image to Docker Hub](#4️⃣-docker-image-to-docker-hub)  
+    - [Docker Image to AWS ECR](#5️⃣-docker-image-to-aws-ecr)  
+    - [EKS Deployment](#6️⃣-eks-deployment)  
+
+3. [Sample App - 2: CI/CD with AWS](#sample-app---2-cicd-with-aws)  
+    - [AWS CodeCommit Integration](#7️⃣-aws-codecommit-integration)  
+    - [AWS CodeBuild Integration](#8️⃣-aws-codebuild-integration)  
+    - [AWS CodePipeline Integration](#9️⃣-aws-codepipeline-integration)  
+
+4. [Sample App - 3: Infrastructure as Code (IaC) with Terraform (EC2_With_Terrform Folder)](#sample-app---3-infrastructure-as-code-iac-with-terraform-ec2_with_terrform-folder)  
+    - [EC2 Creation](#ec2-creation)  
+
+
 ---
 ## Creation of Java Microservices App
 Microservices Application (Java): A Java-based microservice application with two microservices (Intern and Training). It includes CRUD operations, Eureka Server for service discovery, and Swagger for API documentation.
