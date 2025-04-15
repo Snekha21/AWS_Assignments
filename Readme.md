@@ -2,7 +2,7 @@
 Hi, This is Snekha from CEDA!
 This repository contains creation, end-to-end deployment, automation, and integration workflows using Docker, Kubernetes, Terraform, and AWS native services. Each sample showcases a specific real-world use case.
 
-# 📘 Table of Contents
+## Table of Contents
 
 1. [Creation of Java Microservices App](#creation-of-java-microservices-app)  
     - [Service-1: Eureka Server]
