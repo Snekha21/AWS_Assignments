@@ -5,9 +5,9 @@ This repository contains creation, end-to-end deployment, automation, and integr
 ## Table of Contents
 
 1. [Creation of Java Microservices App](#creation-of-java-microservices-app)  
-    - [Service-1: Eureka Server]
-    - [Service-2: Intern Management] 
-    - [Service-3: Training Management] 
+    - Service-1: Eureka Server
+    - Service-2: Intern Management 
+    - Service-3: Training Management
 
 2. [Sample App - 1: Docker & Kubernetes Deployment (In DevOps Folder)](#sample-app---1-docker--kubernetes-deployment-in-devops-folder)  
     - [Dockerfiles Setup](#1️⃣-dockerfiles-setup)  
