@@ -25,7 +25,7 @@ This repository contains creation, end-to-end deployment, automation, and integr
 4. [Sample App - 3: Infrastructure as Code (IaC) with Terraform (EC2_With_Terrform Folder)](#sample-app---3-infrastructure-as-code-iac-with-terraform-ec2_with_terrform-folder)  
     - [EC2 Creation](#ec2-creation)
   
-5. [Sample App - 4: Infrastructure as Code (IaC) with Terraform (Aurora_S3_With_Terraform Folder)](#sample-app---4-Infrastructure-as-Code-iac-with-Terraform-Aurora-S3-With-Terraform-Folder)
+5. [Sample App - 4: Infrastructure as Code (IaC) with Terraform (Aurora_S3_With_Terraform Folder)](#sample-app---4-Infrastructure-as-Code-iac-with-Terraform-Aurora_S3_With_Terraform-Folder)
     - [Aurora and S3 Setup](#Aurora-and-S3-Setup)
     
 6. [Sample App - 5: Bedrock-Powered Chat in Console with Python](#sample-app---5-bedrock-powered-chat-in-console)
