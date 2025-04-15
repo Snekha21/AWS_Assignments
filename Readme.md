@@ -23,7 +23,12 @@ This repository contains creation, end-to-end deployment, automation, and integr
     - [AWS CodePipeline Integration](#9️⃣-aws-codepipeline-integration)  
 
 4. [Sample App - 3: Infrastructure as Code (IaC) with Terraform (EC2_With_Terrform Folder)](#sample-app---3-infrastructure-as-code-iac-with-terraform-ec2_with_terrform-folder)  
-    - [EC2 Creation](#ec2-creation)  
+    - [EC2 Creation](#ec2-creation)
+  
+5. [Sample App - 4: Infrastructure as Code (IaC) with Terraform (Aurora_S3_With_Terraform Folder)](#sample-app---4-Infrastructure-as-Code-(IaC)-with-Terraform (Aurora_S3_With_Terraform Folder))
+6. [Sample App - 5: Bedrock-Powered Chat in Console with Python](#sample-app---5-bedrock-powered-chat-in-console)
+7. [Sample App - 6: Lambda Function](#sample-app---6-lambda-functions)
+
 
 
 ---
@@ -209,8 +214,10 @@ terraform apply
 #### Status: Running
 ![Screenshot 2025-04-14 192720](https://github.com/user-attachments/assets/22b9b08d-2e45-440a-a730-323532734b45)
 
-
 ---
+
+
+#  Sample App - 4: Infrastructure as Code (IaC) with Terraform (Aurora_S3_With_Terraform Folder)
 
 ## Aurora and S3 Setup
 - Terraform modules for Aurora DB and S3 buckets.
@@ -227,7 +234,7 @@ terraform apply
 
 ---
 
-# Sample App - 4: Bedrock-Powered Chat in Console
+# Sample App - 5: Bedrock-Powered Chat in Console
 
 ## 💬 Python Chat Application
 - Created a Console based chat app using AWS Bedrock to leverage foundation models for responses.
@@ -238,7 +245,7 @@ terraform apply
 
 ---
 
-# Sample App - 5: Lambda Functions
+# Sample App - 6: Lambda Functions
 
 ### 💬 Python Lambda Function
 - Created a simple lambda function using Python
